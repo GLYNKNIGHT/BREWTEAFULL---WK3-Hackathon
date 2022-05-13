@@ -8,7 +8,7 @@ As well as the web page we....
 
   -Mapped the user jounrney on a flow diagram
 
-  -Created low-fi and high fi wire frames. (https://www.figma.com/file/30MeA1myY6wFl0GulSCjGq/BrewTeaFull?node-id=0%3A1)
+  -Created low-fi and high fi wire frames. (https://miro.com/app/board/uXjVO1QyeHw=/?share_link_id=728376851985    , https://www.figma.com/file/30MeA1myY6wFl0GulSCjGq/BrewTeaFull?node-id=0%3A1)
 
 
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7849567&assignment_repo_type=AssignmentRepo)
