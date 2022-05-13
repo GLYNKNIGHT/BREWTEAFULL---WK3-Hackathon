@@ -1,10 +1,14 @@
 This is how we did on the UX/UI Hackathon.
 
 As well as the web page we....
-  Used Jamboard for brainstroming
-  Created two user stories and personas
-  Mapped the user jounrney on a flow diagram
-  Created low-fi and high fi wire frames. 
+
+  -Used Jamboard for brainstroming
+
+  -Created two user stories and personas
+
+  -Mapped the user jounrney on a flow diagram
+
+  -Created low-fi and high fi wire frames. 
 
 
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7849567&assignment_repo_type=AssignmentRepo)
